@@ -116,11 +116,7 @@ SimpleHillClimbing()
 
 <img width="1006" height="666" alt="image" src="https://github.com/user-attachments/assets/bab8cb8c-3728-4694-b5b7-cb289e3df76d" />
 
-<img width="906" height="692" alt="image" src="https://github.com/user-attachments/assets/f9560ed5-0b48-4aa8-9b7b-89879b832e3d" />
-
 <img width="1029" height="692" alt="image" src="https://github.com/user-attachments/assets/01157e08-519c-4869-babf-3a233c40099a" />
-
-<img width="1230" height="662" alt="image" src="https://github.com/user-attachments/assets/ae4df803-e73c-4ee0-a138-265abc0fbfce" />
 
 <img width="970" height="662" alt="image" src="https://github.com/user-attachments/assets/bfe16150-ea9a-419e-87ea-ae5531ee672f" />
 
